@@ -2,4 +2,4 @@
 LifeStyle Store
 
 
-#To see Output [Click Here](https://mranand21.github.io/Project1/)
+# To see Output [Click Here](https://mranand21.github.io/Project1/)
